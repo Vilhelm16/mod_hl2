@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Counter Insurgency 2"
-	title 		"Half Life"
+	game 		"Counter Insurgency"
+	title 		"Counter Insurgency"
 	title2		""
 	supportsvr	1
 
